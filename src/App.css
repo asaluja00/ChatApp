@@ -30,7 +30,7 @@ body {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-color: white
+  background-color: whitesmoke
 }
 
 main {
@@ -102,7 +102,7 @@ button:disabled {
 
 .sign-in {
   color: #282c34;
-  background: white;
+  background :white;
   max-width: 400px;
   margin: 0 auto;
 }
@@ -122,10 +122,10 @@ p {
   padding: 10px 20px;
   border-radius: 25px;
   position: relative;
-  color: white;
+  margin :0 auto;
+  color: black;
   text-align: center;
 }
-
 .message {
   display: flex;
   align-items: center;
